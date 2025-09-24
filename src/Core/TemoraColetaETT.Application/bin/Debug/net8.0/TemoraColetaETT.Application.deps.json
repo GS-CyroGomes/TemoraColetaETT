@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TemoraColetaETT.Application/1.0.0": {
+        "dependencies": {
+          "TemoraColetaETT.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TemoraColetaETT.Application.dll": {}
+        }
+      },
+      "TemoraColetaETT.Domain/1.0.0": {
+        "runtime": {
+          "TemoraColetaETT.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemoraColetaETT.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TemoraColetaETT.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

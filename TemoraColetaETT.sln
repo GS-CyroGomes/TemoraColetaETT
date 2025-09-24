@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{65784FC7-FE0B-4B70-9DB5-AB4B751872CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{F00C94F9-457B-44C3-9705-DEEFAD95FB34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemoraColetaETT.Domain", "src\Core\TemoraColetaETT.Domain\TemoraColetaETT.Domain.csproj", "{8D942984-AF6A-48E4-8848-86DCDCEA7205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemoraColetaETT.Application", "src\Core\TemoraColetaETT.Application\TemoraColetaETT.Application.csproj", "{9DFBCD38-FE95-4C95-9BC5-64751EC4B074}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{A1D584C3-7F4C-4FCE-A188-DDE288E026F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemoraColetaETT.Persistence", "src\Infrastructure\TemoraColetaETT.Persistence\TemoraColetaETT.Persistence.csproj", "{5201FFDA-6873-4652-92F7-7F92F64A9EEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemoraColetaETT.ApiClient", "src\Infrastructure\TemoraColetaETT.ApiClient\TemoraColetaETT.ApiClient.csproj", "{ABB87DA4-0C0A-4AE9-8C76-39BD229F4857}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{080E5BA3-A9F8-44AE-BC32-6F2D4EAF283D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemoraColetaETT.Domain.Tests", "tests\TemoraColetaETT.Domain.Tests\TemoraColetaETT.Domain.Tests.csproj", "{9EA6112C-660B-40CC-A6E6-36DF21B994A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemoraColetaETT.ApiClient.Tests", "tests\TemoraColetaETT.ApiClient.Tests\TemoraColetaETT.ApiClient.Tests.csproj", "{890C9B38-8168-4BA7-BAAA-F52DEDAAAAF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D942984-AF6A-48E4-8848-86DCDCEA7205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D942984-AF6A-48E4-8848-86DCDCEA7205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D942984-AF6A-48E4-8848-86DCDCEA7205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D942984-AF6A-48E4-8848-86DCDCEA7205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DFBCD38-FE95-4C95-9BC5-64751EC4B074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFBCD38-FE95-4C95-9BC5-64751EC4B074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DFBCD38-FE95-4C95-9BC5-64751EC4B074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DFBCD38-FE95-4C95-9BC5-64751EC4B074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5201FFDA-6873-4652-92F7-7F92F64A9EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5201FFDA-6873-4652-92F7-7F92F64A9EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5201FFDA-6873-4652-92F7-7F92F64A9EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5201FFDA-6873-4652-92F7-7F92F64A9EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB87DA4-0C0A-4AE9-8C76-39BD229F4857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB87DA4-0C0A-4AE9-8C76-39BD229F4857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB87DA4-0C0A-4AE9-8C76-39BD229F4857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB87DA4-0C0A-4AE9-8C76-39BD229F4857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA6112C-660B-40CC-A6E6-36DF21B994A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA6112C-660B-40CC-A6E6-36DF21B994A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA6112C-660B-40CC-A6E6-36DF21B994A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA6112C-660B-40CC-A6E6-36DF21B994A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890C9B38-8168-4BA7-BAAA-F52DEDAAAAF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890C9B38-8168-4BA7-BAAA-F52DEDAAAAF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890C9B38-8168-4BA7-BAAA-F52DEDAAAAF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890C9B38-8168-4BA7-BAAA-F52DEDAAAAF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F00C94F9-457B-44C3-9705-DEEFAD95FB34} = {65784FC7-FE0B-4B70-9DB5-AB4B751872CB}
+		{8D942984-AF6A-48E4-8848-86DCDCEA7205} = {F00C94F9-457B-44C3-9705-DEEFAD95FB34}
+		{9DFBCD38-FE95-4C95-9BC5-64751EC4B074} = {F00C94F9-457B-44C3-9705-DEEFAD95FB34}
+		{A1D584C3-7F4C-4FCE-A188-DDE288E026F9} = {65784FC7-FE0B-4B70-9DB5-AB4B751872CB}
+		{5201FFDA-6873-4652-92F7-7F92F64A9EEA} = {A1D584C3-7F4C-4FCE-A188-DDE288E026F9}
+		{ABB87DA4-0C0A-4AE9-8C76-39BD229F4857} = {A1D584C3-7F4C-4FCE-A188-DDE288E026F9}
+		{9EA6112C-660B-40CC-A6E6-36DF21B994A0} = {080E5BA3-A9F8-44AE-BC32-6F2D4EAF283D}
+		{890C9B38-8168-4BA7-BAAA-F52DEDAAAAF0} = {080E5BA3-A9F8-44AE-BC32-6F2D4EAF283D}
+	EndGlobalSection
+EndGlobal

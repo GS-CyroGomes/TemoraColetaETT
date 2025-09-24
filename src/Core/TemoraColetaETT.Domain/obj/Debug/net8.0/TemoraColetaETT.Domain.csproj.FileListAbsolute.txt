@@ -1,0 +1,11 @@
+/home/cyro/projetos/TemoraColetaETT/src/Core/TemoraColetaETT.Domain/bin/Debug/net8.0/TemoraColetaETT.Domain.deps.json
+/home/cyro/projetos/TemoraColetaETT/src/Core/TemoraColetaETT.Domain/bin/Debug/net8.0/TemoraColetaETT.Domain.dll
+/home/cyro/projetos/TemoraColetaETT/src/Core/TemoraColetaETT.Domain/bin/Debug/net8.0/TemoraColetaETT.Domain.pdb
+/home/cyro/projetos/TemoraColetaETT/src/Core/TemoraColetaETT.Domain/obj/Debug/net8.0/TemoraColetaETT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/cyro/projetos/TemoraColetaETT/src/Core/TemoraColetaETT.Domain/obj/Debug/net8.0/TemoraColetaETT.Domain.AssemblyInfoInputs.cache
+/home/cyro/projetos/TemoraColetaETT/src/Core/TemoraColetaETT.Domain/obj/Debug/net8.0/TemoraColetaETT.Domain.AssemblyInfo.cs
+/home/cyro/projetos/TemoraColetaETT/src/Core/TemoraColetaETT.Domain/obj/Debug/net8.0/TemoraColetaETT.Domain.csproj.CoreCompileInputs.cache
+/home/cyro/projetos/TemoraColetaETT/src/Core/TemoraColetaETT.Domain/obj/Debug/net8.0/TemoraColetaETT.Domain.dll
+/home/cyro/projetos/TemoraColetaETT/src/Core/TemoraColetaETT.Domain/obj/Debug/net8.0/refint/TemoraColetaETT.Domain.dll
+/home/cyro/projetos/TemoraColetaETT/src/Core/TemoraColetaETT.Domain/obj/Debug/net8.0/TemoraColetaETT.Domain.pdb
+/home/cyro/projetos/TemoraColetaETT/src/Core/TemoraColetaETT.Domain/obj/Debug/net8.0/ref/TemoraColetaETT.Domain.dll

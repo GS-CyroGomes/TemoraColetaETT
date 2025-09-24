@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "59c9293f10a14abd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f33d1fccb9e74859",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "900cf34d53beeec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Patterns"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c89fd9650d6f65d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fda43c7ddebc2e12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e037d4e3f5074a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "cd339b3ec711c5f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "0785da2a442bbf0c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2023e74fe85b2132",
+    "type": "split",
+    "children": [
+      {
+        "id": "01f3d4015eaed37c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ffd2d39d5ecaee7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Patterns.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Patterns"
+            }
+          },
+          {
+            "id": "0b61e52ec985dea6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Patterns.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Patterns"
+            }
+          },
+          {
+            "id": "8afe17a93af47359",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e7c8056b2711991a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Patterns.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Patterns"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "900cf34d53beeec0",
+  "lastOpenFiles": [
+    "tests/TemoraColetaETT.ApiClient.Tests/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll",
+    "tests/TemoraColetaETT.ApiClient.Tests/bin/Debug/net8.0/runtimes/browser/lib/net8.0",
+    "tests/TemoraColetaETT.ApiClient.Tests/bin/Debug/net8.0/runtimes/browser/lib",
+    "tests/TemoraColetaETT.ApiClient.Tests/bin/Debug/net8.0/runtimes/browser",
+    "tests/TemoraColetaETT.ApiClient.Tests/bin/Debug/net8.0/System.IO.Pipelines.dll",
+    "tests/TemoraColetaETT.ApiClient.Tests/bin/Debug/net8.0/System.Text.Encodings.Web.dll",
+    "tests/TemoraColetaETT.ApiClient.Tests/bin/Debug/net8.0/System.Text.Json.dll",
+    "tests/TemoraColetaETT.ApiClient.Tests/bin/Debug/net8.0/System.Net.Http.Json.dll",
+    "tests/TemoraColetaETT.ApiClient.Tests/obj/b2b8a520-da2e-4dda-beaa-90d380fa7925.tmp",
+    "tests/TemoraColetaETT.ApiClient.Tests/obj/2d43fe5e-9a0a-49ee-8fd7-b6042d0672af.tmp",
+    "tests/TemoraColetaETT.ApiClient.Tests/obj/11f866c6-baf0-4f7b-9205-25e8160d58e9.tmp"
+  ]
+}
