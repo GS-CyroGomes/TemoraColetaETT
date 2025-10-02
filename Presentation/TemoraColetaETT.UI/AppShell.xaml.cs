@@ -1,6 +1,4 @@
 ﻿using TemoraColetaETT.UI.Views;
-using Microsoft.Maui.Controls;
-
 
 namespace TemoraColetaETT.UI
 {
@@ -10,8 +8,8 @@ namespace TemoraColetaETT.UI
         {
             InitializeComponent();
 
-            // Opcional, mas boa prática para navegação
             Routing.RegisterRoute(nameof(LoginView), typeof(LoginView));
+            Routing.RegisterRoute(nameof(DashboardView), typeof(DashboardView));
         }
     }
 }

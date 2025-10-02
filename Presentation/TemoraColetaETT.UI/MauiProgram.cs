@@ -1,4 +1,4 @@
-﻿using CommunityToolkit.Mvvm.ComponentModel;
+﻿using CommunityToolkit.Maui;
 using Microsoft.EntityFrameworkCore;
 using TemoraColetaETT.Application.Interfaces;
 using TemoraColetaETT.Infrastructure.Configuration;
@@ -16,6 +16,7 @@ namespace TemoraColetaETT.UI
             var builder = MauiApp.CreateBuilder();
             builder
                 .UseMauiApp<App>()
+                .UseMauiCommunityToolkit()
                 .ConfigureFonts(fonts =>
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");

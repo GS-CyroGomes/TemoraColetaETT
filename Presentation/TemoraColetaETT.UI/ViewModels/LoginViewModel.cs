@@ -1,4 +1,11 @@
-﻿using CommunityToolkit.Mvvm.ComponentModel;using CommunityToolkit.Mvvm.Input;using TemoraColetaETT.Application.DTOs;using TemoraColetaETT.Application.Interfaces;using TemoraColetaETT.Infrastructure.Services;
+﻿using CommunityToolkit.Mvvm.ComponentModel;
+using CommunityToolkit.Mvvm.Input;
+using TemoraColetaETT.UI.Views;
+using TemoraColetaETT.Application.DTOs;
+using TemoraColetaETT.Application.Interfaces;
+using TemoraColetaETT.Infrastructure.Services;
+using TemoraColetaETT.UI.Views;
+
 namespace TemoraColetaETT.UI.ViewModels
 {
     public partial class LoginViewModel : ObservableObject
@@ -32,8 +39,10 @@ namespace TemoraColetaETT.UI.ViewModels
 
                 LogService.LogInfo($"Login bem-sucedido para o CPF: {Cpf}");
 
-                // TODO: Salvar o token e navegar para a próxima página
-                await Shell.Current.DisplayAlert("Sucesso", $"Token recebido: {response.Token}", "OK");
+                // await SecureStorage.SetAsync("auth_token", response.Token);
+
+                await Shell.Current.GoToAsync($"//{nameof(DashboardView)}");
+
             }
             catch (Exception ex)
             {

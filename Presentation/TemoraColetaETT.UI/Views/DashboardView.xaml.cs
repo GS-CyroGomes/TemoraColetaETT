@@ -1,9 +1,23 @@
-namespace TemoraColetaETT.UI.Views;
+using TemoraColetaETT.UI.ViewModels;
 
-public partial class DashboardView : ContentPage
+namespace TemoraColetaETT.UI.Views
 {
-	public DashboardView()
-	{
-		InitializeComponent();
-	}
+    public partial class DashboardView : ContentPage
+    {
+        public DashboardView(DashboardViewModel viewModel)
+        {
+            InitializeComponent();
+            BindingContext = viewModel;
+        }
+
+        protected override async void OnAppearing()
+        {
+            base.OnAppearing();
+
+            if (BindingContext is DashboardViewModel viewModel)
+            {
+                await viewModel.InitializeAsync();
+            }
+        }
+    }
 }

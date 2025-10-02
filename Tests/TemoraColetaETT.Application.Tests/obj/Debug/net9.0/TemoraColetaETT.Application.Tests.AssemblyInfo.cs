@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TemoraColetaETT.Application.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e8700b6ad8809410850b107ce91aaa6a69d6286")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d77183a78b7263f1fcb456710bbdf89d92fef1c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TemoraColetaETT.Application.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TemoraColetaETT.Application.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -29,5 +29,5 @@ public static class LogService
 
     public static void LogInfo(string message) => _logger.Information(message);
     public static void LogWarning(string message) => _logger.Warning(message);
-    public static void LogError(string message, Exception ex = null) => _logger.Error(ex, message);
+    public static void LogError(string message, Exception ex = null) => _logger.Error(ex, ex?.Message ?? string.Empty);
 }

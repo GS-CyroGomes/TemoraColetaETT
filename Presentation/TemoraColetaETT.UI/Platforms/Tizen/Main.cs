@@ -1,16 +1,15 @@
 using System;
 using Microsoft.Maui;
-using Microsoft.Maui.Hosting;
 
-namespace TemoraColetaETT.UI;
-
-class Program : MauiApplication
+namespace TemoraColetaETT.UI
 {
-	protected override MauiApp CreateMauiApp() => MauiProgram.CreateMauiApp();
-
-	static void Main(string[] args)
+	class Program : MauiApplication
 	{
-		var app = new Program();
-		app.Run(args);
+		protected override MauiApp CreateMauiApp() => MauiProgram.CreateMauiApp();
+		static void Main(string[] args)
+		{
+			var app = new Program();
+			app.Run(args);
+		}
 	}
 }
