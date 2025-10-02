@@ -1,55 +1,41 @@
+﻿using System;
 using System.Text.Json;
+using TemoraColetaETT.Domain.Entities;
+using Xunit;
 
-namespace TemoraColetaETT.Domain.Tests;
-
-public class UsuarioTests
+namespace TemoraColetaETT.Domain.Tests
 {
-    [Fact]
-    public void TesteCriarUsuario()
+    public class PessoaTests
     {
-        /*
-        var empresa = new Empresa
+        [Fact]
+        public void CriarUsuario()
         {
-            Id = Guid.NewGuid(),
-            Localizacao = "Bahia - BA"
-        };
-        empresa.ValidateWithApiAsync("01108339000250").Wait();
+            var empresa = new Empresa("OpenAI Brasil", "00000000000000");
 
-        var usuario = new Usuario
-        {
-            Id = Guid.NewGuid(),
-            UsuarioId = Guid.NewGuid(),
-            Login = "Cyro",
-            HashedPassword = "123456",
-            Role = "Admin",
-            Nome = "Cyro Gomes",
-            DataNascimento = DateTime.Parse("1990-01-01"),
-            Rg = "1234567",
-            Cpf = "00011122233",
-            OrgaoEmissor = "SSP",
-            UfEmissor = "SP",
-            EmpresaId = empresa.Id
-        };
-        usuario.Validate();
+            var usuario = new Usuario(
+               "Cyro Matheus Barroso Gomes",
+               DateTime.Parse("02/08/1996"),
+               "06262658513",
+               "1606856995",
+               "Secretaria do Estado",
+               "BA",
+               "senha123", 
+               empresa);
 
-        var jsonEmpresa = JsonSerializer.Serialize(
-            empresa,
-            new JsonSerializerOptions { WriteIndented = true }
-        );
+            Assert.NotNull(usuario);
+            Assert.Equal("Cyro Matheus Barroso Gomes", usuario.NomeCompleto);
+            Assert.Equal("06262658513", usuario.Cpf);
+            Assert.Equal("senha123", usuario.Senha);
+            Assert.Equal("OpenAI Brasil", usuario.Empresa.Nome);
 
-        var pessoaJson = System.Text.Json.JsonSerializer.Serialize(
-            (Pessoa)usuario,
-            new System.Text.Json.JsonSerializerOptions { WriteIndented = true }
-        );
-        
-        var jsonUser = JsonSerializer.Serialize(
-            usuario,
-            new JsonSerializerOptions { WriteIndented = true }
-        );
-
-        Console.WriteLine($"\n\n\n\nEmpresa : {jsonEmpresa}");
-        Console.WriteLine($"\n\nPessoa : {pessoaJson}");
-        Console.WriteLine($"\n\nUsuario : {jsonUser}");
-        */
+            Console.WriteLine(JsonSerializer.Serialize(
+                usuario,
+                new JsonSerializerOptions
+                {
+                    WriteIndented = true,
+                    ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve
+                }
+            ));
+        }
     }
 }
