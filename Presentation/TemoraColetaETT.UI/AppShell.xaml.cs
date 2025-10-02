@@ -1,9 +1,17 @@
-﻿namespace TemoraColetaETT.UI;
+﻿using TemoraColetaETT.UI.Views;
+using Microsoft.Maui.Controls;
 
-public partial class AppShell : Shell
+
+namespace TemoraColetaETT.UI
 {
-	public AppShell()
-	{
-		InitializeComponent();
-	}
+    public partial class AppShell : Shell
+    {
+        public AppShell()
+        {
+            InitializeComponent();
+
+            // Opcional, mas boa prática para navegação
+            Routing.RegisterRoute(nameof(LoginView), typeof(LoginView));
+        }
+    }
 }

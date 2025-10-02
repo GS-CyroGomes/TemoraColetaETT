@@ -1,10 +1,5 @@
-﻿using System;
-using System.Net.Http;
-using System.Threading.Tasks;
-using TemoraColetaETT.Application.DTOs;
-using TemoraColetaETT.Infrastructure.Configuration;
+﻿using TemoraColetaETT.Application.DTOs;
 using TemoraColetaETT.Infrastructure.Services;
-using Xunit;
 
 namespace TemoraColetaETT.Infrastructure.Tests
 {

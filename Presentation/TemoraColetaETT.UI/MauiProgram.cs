@@ -1,24 +1,48 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using CommunityToolkit.Mvvm.ComponentModel;
+using Microsoft.EntityFrameworkCore;
+using TemoraColetaETT.Application.Interfaces;
+using TemoraColetaETT.Infrastructure.Configuration;
+using TemoraColetaETT.Infrastructure.Persistence;
+using TemoraColetaETT.Infrastructure.Services;
+using TemoraColetaETT.UI.ViewModels;
+using TemoraColetaETT.UI.Views;
 
-namespace TemoraColetaETT.UI;
-
-public static class MauiProgram
+namespace TemoraColetaETT.UI
 {
-	public static MauiApp CreateMauiApp()
-	{
-		var builder = MauiApp.CreateBuilder();
-		builder
-			.UseMauiApp<App>()
-			.ConfigureFonts(fonts =>
-			{
-				fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
-				fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
-			});
+    public static class MauiProgram
+    {
+        public static MauiApp CreateMauiApp()
+        {
+            var builder = MauiApp.CreateBuilder();
+            builder
+                .UseMauiApp<App>()
+                .ConfigureFonts(fonts =>
+                {
+                    fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
+                    fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
+                });
 
-#if DEBUG
-		builder.Logging.AddDebug();
-#endif
+            Env.Load();
 
-		return builder.Build();
-	}
+            LogService.Initialize();
+            
+            ConfigureServices(builder.Services);
+
+            return builder.Build();
+        }
+
+        public static void ConfigureServices(IServiceCollection services)
+        {
+            services.AddHttpClient<IAuthService, AuthService>(client =>
+            {
+                client.BaseAddress = new Uri(Env.ApiBaseUrl);
+            });
+
+            var dbPath = Path.Combine(FileSystem.AppDataDirectory, "app.db");
+            services.AddDbContext<AppDbContext>(options => options.UseSqlite($"Data Source={dbPath}"));
+
+            services.AddTransient<LoginViewModel>();
+            services.AddTransient<LoginView>();
+        }
+    }
 }

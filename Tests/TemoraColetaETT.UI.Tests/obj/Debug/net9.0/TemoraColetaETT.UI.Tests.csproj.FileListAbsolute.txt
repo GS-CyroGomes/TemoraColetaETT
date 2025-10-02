@@ -96,8 +96,8 @@ C:\Users\Giusoft\Desktop\TemoraColetaETT\Tests\TemoraColetaETT.UI.Tests\obj\Debu
 C:\Users\Giusoft\Desktop\TemoraColetaETT\Tests\TemoraColetaETT.UI.Tests\obj\Debug\net9.0\TemoraColetaETT.UI.Tests.pdb
 C:\Users\Giusoft\Desktop\TemoraColetaETT\Tests\TemoraColetaETT.UI.Tests\obj\Debug\net9.0\TemoraColetaETT.UI.Tests.genruntimeconfig.cache
 C:\Users\Giusoft\Desktop\TemoraColetaETT\Tests\TemoraColetaETT.UI.Tests\obj\Debug\net9.0\ref\TemoraColetaETT.UI.Tests.dll
-C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Tests\TemoraColetaETT.UI.Tests\bin\Debug\net9.0\testhost.exe
 C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Tests\TemoraColetaETT.UI.Tests\bin\Debug\net9.0\testhost.dll
+C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Tests\TemoraColetaETT.UI.Tests\bin\Debug\net9.0\testhost.exe
 C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Tests\TemoraColetaETT.UI.Tests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
 C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Tests\TemoraColetaETT.UI.Tests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
 C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Tests\TemoraColetaETT.UI.Tests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll

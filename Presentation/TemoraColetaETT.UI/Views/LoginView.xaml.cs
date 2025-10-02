@@ -1,9 +1,13 @@
-namespace TemoraColetaETT.UI.Views;
+using TemoraColetaETT.UI.ViewModels;
 
-public partial class LoginView : ContentPage
+namespace TemoraColetaETT.UI.Views
 {
-	public LoginView()
-	{
-		InitializeComponent();
-	}
+    public partial class LoginView : ContentPage
+    {
+        public LoginView(LoginViewModel viewModel)
+        {
+            InitializeComponent();
+            BindingContext = viewModel;
+        }
+    }
 }

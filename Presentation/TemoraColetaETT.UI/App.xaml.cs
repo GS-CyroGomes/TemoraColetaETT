@@ -1,18 +1,18 @@
-﻿namespace TemoraColetaETT.UI;
-
+﻿using MauiApp = Microsoft.Maui.Controls.Application;
 using TemoraColetaETT.UI.Views;
-using Application = Microsoft.Maui.Controls.Application;
 
-public partial class App : Application
+namespace TemoraColetaETT.UI
 {
-	public App()
-	{
-		InitializeComponent();
-		MainPage = new LoginView();
-	}
+    public partial class App : MauiApp
+    {
+        public App()
+        {
+            InitializeComponent();
+        }
 
-	protected override Window CreateWindow(IActivationState? activationState)
-	{
-		return new Window(new AppShell());
-	}
+        protected override Window CreateWindow(IActivationState? activationState)
+        {
+            return new Window(new AppShell());
+        }
+    }
 }

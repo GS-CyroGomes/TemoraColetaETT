@@ -4,11 +4,60 @@
         <name>TemoraColetaETT.UI</name>
     </assembly>
     <members>
+        <member name="T:TemoraColetaETT.UI.ViewModels.LoginViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:TemoraColetaETT.UI.ViewModels.LoginViewModel.Cpf">
+            <inheritdoc cref="F:TemoraColetaETT.UI.ViewModels.LoginViewModel._cpf"/>
+        </member>
+        <member name="P:TemoraColetaETT.UI.ViewModels.LoginViewModel.Senha">
+            <inheritdoc cref="F:TemoraColetaETT.UI.ViewModels.LoginViewModel._senha"/>
+        </member>
+        <member name="P:TemoraColetaETT.UI.ViewModels.LoginViewModel.IsBusy">
+            <inheritdoc cref="F:TemoraColetaETT.UI.ViewModels.LoginViewModel._isBusy"/>
+        </member>
+        <member name="F:TemoraColetaETT.UI.ViewModels.LoginViewModel.loginCommand">
+            <summary>The backing field for <see cref="P:TemoraColetaETT.UI.ViewModels.LoginViewModel.LoginCommand"/>.</summary>
+        </member>
+        <member name="P:TemoraColetaETT.UI.ViewModels.LoginViewModel.LoginCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:TemoraColetaETT.UI.ViewModels.LoginViewModel.LoginAsync"/>.</summary>
+        </member>
         <member name="T:TemoraColetaETT.UI.Resource">
             <summary>
             Android Resource Designer class.
             Exposes the Android Resource designer assembly into the project Namespace.
             </summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Cpf">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Cpf" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Senha">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Senha" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsBusy">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsBusy" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Cpf">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Cpf" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Senha">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Senha" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsBusy">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsBusy" generated properties.</summary>
         </member>
     </members>
 </doc>

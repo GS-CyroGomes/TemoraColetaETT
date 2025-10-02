@@ -17,6 +17,7 @@ C:\Users\Giusoft\Desktop\TemoraColetaETT\Infrastructure\TemoraColetaETT.Infrastr
 C:\Users\Giusoft\Desktop\TemoraColetaETT\Infrastructure\TemoraColetaETT.Infrastructure\obj\Debug\net9.0\ref\TemoraColetaETT.Infrastructure.dll
 C:\Users\Giusoft\Desktop\TemoraColetaETT\Infrastructure\TemoraColetaETT.Infrastructure\bin\Debug\net9.0\TemoraColetaETT.Infrastructure.runtimeconfig.json
 C:\Users\Giusoft\Desktop\TemoraColetaETT\Infrastructure\TemoraColetaETT.Infrastructure\obj\Debug\net9.0\TemoraColetaETT.Infrastructure.genruntimeconfig.cache
+C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Infrastructure\TemoraColetaETT.Infrastructure\bin\Debug\net9.0\.env
 C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Infrastructure\TemoraColetaETT.Infrastructure\bin\Debug\net9.0\TemoraColetaETT.Infrastructure.deps.json
 C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Infrastructure\TemoraColetaETT.Infrastructure\bin\Debug\net9.0\TemoraColetaETT.Infrastructure.runtimeconfig.json
 C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Infrastructure\TemoraColetaETT.Infrastructure\bin\Debug\net9.0\TemoraColetaETT.Infrastructure.dll
@@ -37,4 +38,3 @@ C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Infrastructure\TemoraColetaETT
 C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Infrastructure\TemoraColetaETT.Infrastructure\obj\Debug\net9.0\TemoraColetaETT.Infrastructure.pdb
 C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Infrastructure\TemoraColetaETT.Infrastructure\obj\Debug\net9.0\TemoraColetaETT.Infrastructure.genruntimeconfig.cache
 C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Infrastructure\TemoraColetaETT.Infrastructure\obj\Debug\net9.0\ref\TemoraColetaETT.Infrastructure.dll
-C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Infrastructure\TemoraColetaETT.Infrastructure\bin\Debug\net9.0\.env

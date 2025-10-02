@@ -29,6 +29,15 @@ namespace TemoraColetaETT.Domain.Tests
             Assert.Equal("OpenAI Brasil", usuario.Empresa.Nome);
 
             Console.WriteLine(JsonSerializer.Serialize(
+                empresa,
+                new JsonSerializerOptions
+                {
+                    WriteIndented = true,
+                    ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve
+                }
+            ));
+
+            Console.WriteLine(JsonSerializer.Serialize(
                 usuario,
                 new JsonSerializerOptions
                 {

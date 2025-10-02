@@ -1,19 +1,26 @@
-﻿namespace TemoraColetaETT.Infrastructure.Configuration;
+﻿using DotNetEnv;
 
-using DotNetEnv;
-
-public static class Env
+namespace TemoraColetaETT.Infrastructure.Configuration
 {
-    public static string ApiBaseUrl { get; private set; }
-    static Env()
+    public static class Env
     {
-        string envPath = Path.Combine(AppContext.BaseDirectory, ".env");
-        if (File.Exists(envPath))
+        public static string ApiBaseUrl { get; private set; }
+        static Env()
         {
-            DotNetEnv.Env.Load(envPath);
+            string envPath = Path.Combine(AppContext.BaseDirectory, ".env");
+            if (File.Exists(envPath))
+            {
+                DotNetEnv.Env.Load(envPath);
+                ApiBaseUrl = DotNetEnv.Env.GetString("API_BASE_URL");
+            }
+        }
+
+        public static void Load()
+        {
+            DotNetEnv.Env.Load();
             ApiBaseUrl = DotNetEnv.Env.GetString("API_BASE_URL");
         }
-    }
 
-    public static string? Get(string key) => Environment.GetEnvironmentVariable(key);
+        public static string? Get(string key) => Environment.GetEnvironmentVariable(key);
+    }
 }

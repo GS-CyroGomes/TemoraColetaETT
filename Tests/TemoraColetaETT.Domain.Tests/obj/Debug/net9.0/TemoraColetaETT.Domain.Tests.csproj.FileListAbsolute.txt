@@ -102,8 +102,8 @@ C:\Users\Giusoft\Desktop\TemoraColetaETT\Tests\TemoraColetaETT.Domain.Tests\obj\
 C:\Users\Giusoft\Desktop\TemoraColetaETT\Tests\TemoraColetaETT.Domain.Tests\obj\Debug\net9.0\ref\TemoraColetaETT.Domain.Tests.dll
 C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Tests\TemoraColetaETT.Domain.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_TemoraColetaETT.Domain.Tests
 C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Tests\TemoraColetaETT.Domain.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_TemoraColetaETT.Domain.Tests
-C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Tests\TemoraColetaETT.Domain.Tests\bin\Debug\net9.0\testhost.exe
 C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Tests\TemoraColetaETT.Domain.Tests\bin\Debug\net9.0\testhost.dll
+C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Tests\TemoraColetaETT.Domain.Tests\bin\Debug\net9.0\testhost.exe
 C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Tests\TemoraColetaETT.Domain.Tests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
 C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Tests\TemoraColetaETT.Domain.Tests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
 C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\Tests\TemoraColetaETT.Domain.Tests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
