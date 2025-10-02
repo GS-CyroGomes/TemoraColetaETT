@@ -3,6 +3,7 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "TemoraColetaETT.UI.dll" comes first in this list. */
 		"TemoraColetaETT.UI.dll",
+		"CommunityToolkit.Mvvm.dll",
 		"GoogleGson.dll",
 		"Microsoft.Extensions.Configuration.dll",
 		"Microsoft.Extensions.Configuration.Abstractions.dll",
@@ -144,6 +145,7 @@ public class MonoPackageManager_Resources {
 		"TemoraColetaETT.Application.dll",
 		"TemoraColetaETT.Domain.dll",
 		"_Microsoft.Android.Resource.Designer.dll",
+		"CommunityToolkit.Mvvm.dll",
 		"GoogleGson.dll",
 		"Microsoft.Extensions.Configuration.dll",
 		"Microsoft.Extensions.Configuration.Abstractions.dll",

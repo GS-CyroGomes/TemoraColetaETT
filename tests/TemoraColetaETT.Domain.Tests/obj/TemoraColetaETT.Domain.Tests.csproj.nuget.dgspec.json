@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Tests\\TemoraColetaETT.Domain.Tests\\TemoraColetaETT.Domain.Tests.csproj": {}
+    "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Tests\\TemoraColetaETT.Domain.Tests\\TemoraColetaETT.Domain.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj": {
+    "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj",
         "projectName": "TemoraColetaETT.Domain",
-        "projectPath": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj",
+        "projectPath": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj",
         "packagesPath": "C:\\Users\\Giusoft\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Tests\\TemoraColetaETT.Domain.Tests\\TemoraColetaETT.Domain.Tests.csproj": {
+    "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Tests\\TemoraColetaETT.Domain.Tests\\TemoraColetaETT.Domain.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Tests\\TemoraColetaETT.Domain.Tests\\TemoraColetaETT.Domain.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Tests\\TemoraColetaETT.Domain.Tests\\TemoraColetaETT.Domain.Tests.csproj",
         "projectName": "TemoraColetaETT.Domain.Tests",
-        "projectPath": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Tests\\TemoraColetaETT.Domain.Tests\\TemoraColetaETT.Domain.Tests.csproj",
+        "projectPath": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Tests\\TemoraColetaETT.Domain.Tests\\TemoraColetaETT.Domain.Tests.csproj",
         "packagesPath": "C:\\Users\\Giusoft\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Tests\\TemoraColetaETT.Domain.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Tests\\TemoraColetaETT.Domain.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,8 +99,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj": {
-                "projectPath": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj"
+              "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj": {
+                "projectPath": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj"
               }
             }
           }

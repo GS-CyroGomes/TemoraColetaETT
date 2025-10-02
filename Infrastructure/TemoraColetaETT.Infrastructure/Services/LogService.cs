@@ -1,8 +1,7 @@
-﻿using Serilog;
+﻿namespace TemoraColetaETT.Infrastructure.Services;
+using Serilog;
 using Serilog.Core;
 using Serilog.Configuration;
-
-namespace TemoraColetaETT.Infrastructure.Services;
 
 public static class LogService
 {

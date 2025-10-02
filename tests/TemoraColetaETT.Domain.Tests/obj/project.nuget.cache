@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qtP3K+w4VME=",
+  "dgSpecHash": "v7wQ25YpzLI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Tests\\TemoraColetaETT.Domain.Tests\\TemoraColetaETT.Domain.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Tests\\TemoraColetaETT.Domain.Tests\\TemoraColetaETT.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Giusoft\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\Giusoft\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

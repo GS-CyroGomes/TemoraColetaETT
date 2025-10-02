@@ -949,11 +949,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Tests\\TemoraColetaETT.UI.Tests\\TemoraColetaETT.UI.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Tests\\TemoraColetaETT.UI.Tests\\TemoraColetaETT.UI.Tests.csproj",
       "projectName": "TemoraColetaETT.UI.Tests",
-      "projectPath": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Tests\\TemoraColetaETT.UI.Tests\\TemoraColetaETT.UI.Tests.csproj",
+      "projectPath": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Tests\\TemoraColetaETT.UI.Tests\\TemoraColetaETT.UI.Tests.csproj",
       "packagesPath": "C:\\Users\\Giusoft\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Tests\\TemoraColetaETT.UI.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Tests\\TemoraColetaETT.UI.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

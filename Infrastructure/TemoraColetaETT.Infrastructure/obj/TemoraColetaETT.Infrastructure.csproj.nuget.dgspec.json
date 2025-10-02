@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\TemoraColetaETT.Infrastructure.csproj": {}
+    "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\TemoraColetaETT.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Core\\TemoraColetaETT.Application\\TemoraColetaETT.Application.csproj": {
+    "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Core\\TemoraColetaETT.Application\\TemoraColetaETT.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Core\\TemoraColetaETT.Application\\TemoraColetaETT.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Core\\TemoraColetaETT.Application\\TemoraColetaETT.Application.csproj",
         "projectName": "TemoraColetaETT.Application",
-        "projectPath": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Core\\TemoraColetaETT.Application\\TemoraColetaETT.Application.csproj",
+        "projectPath": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Core\\TemoraColetaETT.Application\\TemoraColetaETT.Application.csproj",
         "packagesPath": "C:\\Users\\Giusoft\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Core\\TemoraColetaETT.Application\\obj\\",
+        "outputPath": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Core\\TemoraColetaETT.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj": {
-                "projectPath": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj"
+              "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj": {
+                "projectPath": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj": {
+    "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj",
         "projectName": "TemoraColetaETT.Domain",
-        "projectPath": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj",
+        "projectPath": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\TemoraColetaETT.Domain.csproj",
         "packagesPath": "C:\\Users\\Giusoft\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Core\\TemoraColetaETT.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -140,14 +140,14 @@
         }
       }
     },
-    "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\TemoraColetaETT.Infrastructure.csproj": {
+    "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\TemoraColetaETT.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\TemoraColetaETT.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\TemoraColetaETT.Infrastructure.csproj",
         "projectName": "TemoraColetaETT.Infrastructure",
-        "projectPath": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\TemoraColetaETT.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\TemoraColetaETT.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Giusoft\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -169,8 +169,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Core\\TemoraColetaETT.Application\\TemoraColetaETT.Application.csproj": {
-                "projectPath": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Core\\TemoraColetaETT.Application\\TemoraColetaETT.Application.csproj"
+              "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Core\\TemoraColetaETT.Application\\TemoraColetaETT.Application.csproj": {
+                "projectPath": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Core\\TemoraColetaETT.Application\\TemoraColetaETT.Application.csproj"
               }
             }
           }
@@ -206,6 +206,14 @@
               "version": "[9.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.Extensions.Http": {
               "target": "Package",
               "version": "[9.0.9, )"
             },

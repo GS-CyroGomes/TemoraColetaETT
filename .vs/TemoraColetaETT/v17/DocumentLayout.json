@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\",
+  "WorkspaceRootPath": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84A4C8D1-7BF0-4B06-8923-5676FCA96AFE}|Tests\\TemoraColetaETT.Infrastructure.Tests\\TemoraColetaETT.Infrastructure.Tests.csproj|c:\\users\\giusoft\\desktop\\temoracoletaett\\tests\\temoracoletaett.infrastructure.tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84A4C8D1-7BF0-4B06-8923-5676FCA96AFE}|Tests\\TemoraColetaETT.Infrastructure.Tests\\TemoraColetaETT.Infrastructure.Tests.csproj|solutionrelative:tests\\temoracoletaett.infrastructure.tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DCD708C-AAB2-44C7-A4D1-FB91D56C52AF}|Infrastructure\\TemoraColetaETT.Infrastructure\\TemoraColetaETT.Infrastructure.csproj|c:\\users\\giusoft\\documents\\github\\temoracoletaett\\infrastructure\\temoracoletaett.infrastructure\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCD708C-AAB2-44C7-A4D1-FB91D56C52AF}|Infrastructure\\TemoraColetaETT.Infrastructure\\TemoraColetaETT.Infrastructure.csproj|solutionrelative:infrastructure\\temoracoletaett.infrastructure\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DCD708C-AAB2-44C7-A4D1-FB91D56C52AF}|Infrastructure\\TemoraColetaETT.Infrastructure\\TemoraColetaETT.Infrastructure.csproj|c:\\users\\giusoft\\desktop\\temoracoletaett\\infrastructure\\temoracoletaett.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0DCD708C-AAB2-44C7-A4D1-FB91D56C52AF}|Infrastructure\\TemoraColetaETT.Infrastructure\\TemoraColetaETT.Infrastructure.csproj|c:\\users\\giusoft\\documents\\github\\temoracoletaett\\infrastructure\\temoracoletaett.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DCD708C-AAB2-44C7-A4D1-FB91D56C52AF}|Infrastructure\\TemoraColetaETT.Infrastructure\\TemoraColetaETT.Infrastructure.csproj|solutionrelative:infrastructure\\temoracoletaett.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DCD708C-AAB2-44C7-A4D1-FB91D56C52AF}|Infrastructure\\TemoraColetaETT.Infrastructure\\TemoraColetaETT.Infrastructure.csproj|c:\\users\\giusoft\\desktop\\temoracoletaett\\infrastructure\\temoracoletaett.infrastructure\\configuration\\env.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0DCD708C-AAB2-44C7-A4D1-FB91D56C52AF}|Infrastructure\\TemoraColetaETT.Infrastructure\\TemoraColetaETT.Infrastructure.csproj|c:\\users\\giusoft\\documents\\github\\temoracoletaett\\infrastructure\\temoracoletaett.infrastructure\\configuration\\env.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DCD708C-AAB2-44C7-A4D1-FB91D56C52AF}|Infrastructure\\TemoraColetaETT.Infrastructure\\TemoraColetaETT.Infrastructure.csproj|solutionrelative:infrastructure\\temoracoletaett.infrastructure\\configuration\\env.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DCD708C-AAB2-44C7-A4D1-FB91D56C52AF}|Infrastructure\\TemoraColetaETT.Infrastructure\\TemoraColetaETT.Infrastructure.csproj|c:\\users\\giusoft\\documents\\github\\temoracoletaett\\infrastructure\\temoracoletaett.infrastructure\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0DCD708C-AAB2-44C7-A4D1-FB91D56C52AF}|Infrastructure\\TemoraColetaETT.Infrastructure\\TemoraColetaETT.Infrastructure.csproj|solutionrelative:infrastructure\\temoracoletaett.infrastructure\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 344,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Env.cs",
-              "DocumentMoniker": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\Configuration\\Env.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\TemoraColetaETT.Infrastructure\\Configuration\\Env.cs",
-              "ToolTip": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\Configuration\\Env.cs",
-              "RelativeToolTip": "Infrastructure\\TemoraColetaETT.Infrastructure\\Configuration\\Env.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T13:58:36.372Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Tests\\TemoraColetaETT.Infrastructure.Tests\\AuthServiceTests.cs",
-              "RelativeDocumentMoniker": "Tests\\TemoraColetaETT.Infrastructure.Tests\\AuthServiceTests.cs",
-              "ToolTip": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Tests\\TemoraColetaETT.Infrastructure.Tests\\AuthServiceTests.cs",
-              "RelativeToolTip": "Tests\\TemoraColetaETT.Infrastructure.Tests\\AuthServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T13:52:07.808Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -61,15 +42,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\Services\\LogService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\TemoraColetaETT.Infrastructure\\Services\\LogService.cs",
+              "ToolTip": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\Services\\LogService.cs",
+              "RelativeToolTip": "Infrastructure\\TemoraColetaETT.Infrastructure\\Services\\LogService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:09:30.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\Services\\AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\TemoraColetaETT.Infrastructure\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Giusoft\\Desktop\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\Services\\AuthService.cs",
               "RelativeToolTip": "Infrastructure\\TemoraColetaETT.Infrastructure\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBUAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwCIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T13:54:44.024Z",
+              "WhenOpened": "2025-10-02T17:59:18.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Env.cs",
+              "DocumentMoniker": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\Configuration\\Env.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\TemoraColetaETT.Infrastructure\\Configuration\\Env.cs",
+              "ToolTip": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\Configuration\\Env.cs",
+              "RelativeToolTip": "Infrastructure\\TemoraColetaETT.Infrastructure\\Configuration\\Env.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:35:01.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\.env",
+              "RelativeDocumentMoniker": "Infrastructure\\TemoraColetaETT.Infrastructure\\.env",
+              "ToolTip": "C:\\Users\\Giusoft\\Documents\\GitHub\\TemoraColetaETT\\Infrastructure\\TemoraColetaETT.Infrastructure\\.env",
+              "RelativeToolTip": "Infrastructure\\TemoraColetaETT.Infrastructure\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-02T17:34:49.396Z",
               "EditorCaption": ""
             }
           ]
